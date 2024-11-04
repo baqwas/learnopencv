@@ -386,3 +386,9 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 |[Turn your OpenCV Code into a Web API in under 10 minutes — Part 1](http://www.learnopencv.com/turn-your-opencv-Code-into-a-web-api-in-under-10-minutes-part-1/) | |
 |[How to compile OpenCV sample Code ?](http://www.learnopencv.com/how-to-compile-opencv-sample-Code/) | |
 |[Install OpenCV 3 on Yosemite ( OSX 10.10.x )](http://www.learnopencv.com/install-opencv-3-on-yosemite-osx-10-10-x/) | |
+
+# Raspberry Pi under Ubuntu 24.10
+```
+sudo apt install  libgtk2.0-dev pkg-config dh-make libgraphite2-utils libsm-doc graphicsmagick libcairo2-doc libgtk2.0-doc libthai-doc libmail-box-perl libdatrie-doc libice-doc gfortran freetype2-doc libtool-doc libglib2.0-doc libpango1.0-doc gcj-jdk libcanberra-gtk-common-dev
+```
+
